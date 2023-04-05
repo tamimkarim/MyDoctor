@@ -1,0 +1,6 @@
+kiass|10-1:4:23-12:00 PM-Bad-Cough|take medicine for a month|abc
+xyz|11-2:4:23-12:00 PM-Bad-Fever|napa kha|xyz
+abc|12-3:4:23-12:00 PM-Bad-Fever|medicine|mno
+kiass|13-4:4:23-12:00 PM-Bad-test|X-ray|Kiass
+xyz|14-1:5:23-12:00 PM-Bad-Headache|refer to a nuerology|Chowdhury
+abc|15-6:4:23-12:00 PM-Bad-Pain|medicine|kiass
