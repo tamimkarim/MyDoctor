@@ -1,0 +1,6 @@
+tamim|10-1:4:23-12:00 PM-Bad-Cough|take medicine for a month|tamim
+xyz|11-2:4:23-12:00 PM-Bad-Fever|napa|xyz
+abc|12-3:4:23-12:00 PM-Bad-Fever|medicine|mno
+tamim|13-4:4:23-12:00 PM-Bad-test|X-ray|tamim
+xyz|14-1:5:23-12:00 PM-Bad-Headache|refer to a nuerology|karim
+abc|15-6:4:23-12:00 PM-Bad-Pain|medicine|kiass

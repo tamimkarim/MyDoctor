@@ -1,0 +1,26 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+    
+}
+h1{
+    font-size: 35px;
+    color: rgb(31, 56, 56);
+}
+.welcome{
+    display: flex;
+    
+}
+.half-width{
+    margin-top: 75px;
+    width: 50%; 
+    padding-left: 5%; 
+    padding-right: 5%;
+    
+}
+.half-width img{
+    width: 90%;
+}
+
+
+

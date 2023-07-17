@@ -1,0 +1,3 @@
+Discount|Save upto 10% on medicines
+New Doctor|Get 5% off on your first consultation
+Job opportunity|New Job Alert :Great opportunity for cleaner (<a href="registration.php"> Register Here</a>)|
